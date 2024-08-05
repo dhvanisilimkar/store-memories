@@ -1,16 +1,4 @@
-# store_memories
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-08-05 at 5 01 50 PM](https://github.com/user-attachments/assets/7fe3f381-cdeb-4f10-ae48-25485877a441)
+![WhatsApp Image 2024-08-05 at 5 01 49 PM](https://github.com/user-attachments/assets/e58c59bd-9faa-4447-80b8-fed2e5959aa1)
+![WhatsApp Image 2024-08-05 at 5 01 48 PM (2)](https://github.com/user-attachments/assets/cbfed1af-5026-491d-8548-5fb92c879f80)
+![WhatsApp Image 2024-08-05 at 5 01 48 PM (1)](https://github.com/user-attachments/assets/4ead4a11-c8bd-4b24-97cb-be5e1d31e9e0)
